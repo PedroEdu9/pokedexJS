@@ -1,5 +1,5 @@
 # Criando a Pokedex em JavaScript
-
+Pokedex em JavaScript
 ### Atualmente: Em desenvolvimento
 
 ## Descrição do Projeto:
