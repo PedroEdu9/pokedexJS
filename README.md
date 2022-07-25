@@ -1,4 +1,4 @@
-# Criando a Pokedex em JavaScript
+## Criando a Pokedex em JavaScript
 
 ### Atualmente: Em desenvolvimento
 
