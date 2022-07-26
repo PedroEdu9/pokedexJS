@@ -1,6 +1,8 @@
-# Criando a Pokedex em JavaScript
+## Criando a Pokedex em JavaScript
 
-### Atualmente: Em desenvolvimento
+### Andamento: Trabalhando no Front-End
+
+### https://pedroedu9.github.io/pokedexJS/
 
 ## Descrição do Projeto:
 
