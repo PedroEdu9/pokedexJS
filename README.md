@@ -2,6 +2,8 @@
 
 ### Andamento: Trabalhando no Front-End
 
+### https://pedroedu9.github.io/pokedexJS/
+
 ## Descrição do Projeto:
 
 ### Nesse projeto temos como proposta desenvolver uma Pokedex com o uso de uma API chamada POKEAPI contando com auxílio do curso de JavaScript da DANKI CODE.
