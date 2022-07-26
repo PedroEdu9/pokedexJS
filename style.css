@@ -15,11 +15,20 @@ body{
     padding: 30px 2%;
 }
 
-.main h2{
+#logo {
+    max-width: 50%;
+    margin-left: 215px;
+}
+
+#quantidade{
+    margin-top: 50px;
+}
+
+/*.main h2{
     font-size: 45px;
     color: #ef5350;
     text-align: center;
-}
+}*/
 
 .pokemon-boxes{
     margin: 20px 0;
@@ -32,6 +41,7 @@ body{
     width: 29%;
     margin: 20px 2%;
     background-color: rgb(230,230,230);
+
 }
 
 .pokemon-box img{
@@ -40,6 +50,7 @@ body{
 
 .pokemon-box p{
     color: black;
+    font-family: cursive;
     font-size: 21px;
     text-align: center;
     padding: 10px 0;
@@ -52,5 +63,9 @@ body{
     }
     .pokemon-box img{
         max-width: 300px;
+    }
+
+    #logo{
+        margin-left: 100px;
     }
 }
