@@ -1,6 +1,6 @@
 ## Criando a Pokedex em JavaScript
 
-### Atualmente: Trabalhando no Front-End
+### Andamento: Trabalhando no Front-End
 
 ## Descrição do Projeto:
 
